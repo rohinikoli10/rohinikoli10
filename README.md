@@ -145,9 +145,6 @@ AI Engineer | Machine Learning Engineer | M.Tech Student in Data Science
 - Feature Engineering
 - Model Evaluation
 
----
-
-# 🚀 Featured Projects
 
 ---
 
