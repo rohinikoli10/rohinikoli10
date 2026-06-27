@@ -45,106 +45,23 @@ AI Engineer | Machine Learning Engineer | M.Tech Student in Data Science
 - 🚀 Scalable AI Applications
 
 
+AI & GenAI
+[ML] [DL] [LLMs] [RAG] [NLP] [CV] [RL]
 
----
+Languages
+[Python] [Java] [SQL] [JavaScript]
 
-# 💻 Tech Stack
+Frameworks
+[PyTorch] [TensorFlow] [Scikit-Learn] [FastAPI]
 
-### 🤖 Artificial Intelligence & Generative AI
+LLMs
+[LangChain] [LangGraph] [Hugging Face] [OpenAI]
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-</p>
+Database
+[PostgreSQL] [MongoDB] [MySQL]
 
-**Core Areas**
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Computer Vision
-- Reinforcement Learning
-- Agentic AI
-- Generative AI
-
----
-
-### 🧠 AI Frameworks & Libraries
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy,opencv,fastapi" />
-</p>
-
-- Scikit-learn
-- Pandas
-- NumPy
-- OpenCV
-- FastAPI
-
----
-
-### 🤗 LLM & AI Ecosystem
-
-- Hugging Face Transformers
-- LangChain
-- LangGraph (Learning)
-- Ollama (Learning)
-- OpenAI API
-- Vector Databases
-- Prompt Engineering
-
----
-
-### ☁️ MLOps & Deployment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
-</p>
-
-- Docker
-- Git
-- GitHub
-- Linux
-- REST APIs
-
----
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
-- PostgreSQL
-- MySQL
-- MongoDB
-
----
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
-</p>
-
-- Python
-- Java
-- JavaScript
-- SQL
-
----
-
-### 📊 Data Science & Visualization
-
-- Power BI
-- Excel
-- Matplotlib
-- Seaborn
-- Data Analysis
-- Feature Engineering
-- Model Evaluation
-
+Tools
+[Docker] [Git] [Linux] [VS Code]
 
 ---
 
