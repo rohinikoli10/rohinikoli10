@@ -160,6 +160,34 @@ AI Engineer | Machine Learning Engineer | M.Tech Student in Data Science
 
 ---
 
+---
+
+# 📜 Patent
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+📜
+
+</td>
+
+<td width="75%">
+
+## SurakshaAI: AI-Powered Suspicious Activity Detection System
+
+**Status:** Published Indian Patent
+
+**Innovation Areas**
+
+`Artificial Intelligence` `Computer Vision` `Deep Learning` `IoT` `Video Analytics`
+
+
+</td>
+
+</tr>
+</table>
+
 # 📈 GitHub Stats
 
 <p align="center">
