@@ -33,112 +33,235 @@ AI Engineer | Machine Learning Engineer | M.Tech Student in Data Science
 
 💼 Open to **AI Engineer, Machine Learning Engineer, Data Scientist, and Generative AI** opportunities.
 
+---
+
+## 🌱 Currently Working on
+
+- 🤖 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 🧠 Agentic AI
+- ⚡ MLOps & Model Deployment
+- ☁️ Docker & Kubernetes
+- 🚀 Scalable AI Applications
 
 
-# 🚀 Tech Stack
-
-### Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ---
 
-### AI / Machine Learning
+# 💻 Tech Stack
 
-![PyTorch](https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv)
+### 🤖 Artificial Intelligence & Generative AI
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
-### Backend
+**Core Areas**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-
----
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Computer Vision
+- Reinforcement Learning
+- Agentic AI
+- Generative AI
 
 ---
 
-### Tools
+### 🧠 AI Frameworks & Libraries
 
-Git • GitHub • Docker • Linux • VS Code
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,pandas,numpy,opencv,fastapi" />
+</p>
 
----
-
-# ⭐ Featured Projects
-
-### 🧠 GenConViT+
-
-Deep Learning based DeepFake Detection Framework
-
-✔ Hybrid CNN + Vision Transformer
-
-✔ Scopus Indexed Publication
+- Scikit-learn
+- Pandas
+- NumPy
+- OpenCV
+- FastAPI
 
 ---
 
-### 🚨 SurakshaAI
+### 🤗 LLM & AI Ecosystem
 
-AI Powered Suspicious Activity Detection System
-
-✔ Computer Vision
-
-✔ Real-time Detection
-
-✔ Published Patent
-
----
-
-### 🔐 FastAPI Authentication System
-
-Secure Authentication API
-
-✔ JWT
-
-✔ OAuth2
-
-✔ PostgreSQL
-
-✔ SQLAlchemy
+- Hugging Face Transformers
+- LangChain
+- LangGraph (Learning)
+- Ollama (Learning)
+- OpenAI API
+- Vector Databases
+- Prompt Engineering
 
 ---
 
-### 🤖 Reinforcement Learning Algorithms
+### ☁️ MLOps & Deployment
 
-Implementation and comparison of
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux" />
+</p>
+
+- Docker
+- Git
+- GitHub
+- Linux
+- REST APIs
+
+---
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
+
+- PostgreSQL
+- MySQL
+- MongoDB
+
+---
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+</p>
+
+- Python
+- Java
+- JavaScript
+- SQL
+
+---
+
+### 📊 Data Science & Visualization
+
+- Power BI
+- Excel
+- Matplotlib
+- Seaborn
+- Data Analysis
+- Feature Engineering
+- Model Evaluation
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 MeetMind AI
+> **AI-Powered Meeting Intelligence Platform**
+
+An end-to-end AI platform that transforms meetings into actionable insights using modern Generative AI technologies.
+
+**✨ Highlights**
+- 🤖 Large Language Models (LLMs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- 📝 AI Meeting Summarization
+- 🎤 Speech-to-Text Processing
+- 💬 Intelligent Chat with Meeting History
+- ⚡ FastAPI Backend
+- 🗂️ Vector Database Integration
+- 🔍 Semantic Search
+- 🔐 Secure Authentication
+- 🌐 Modern Full-Stack Architecture
+
+**Tech Stack**
+
+`Python` • `FastAPI` • `LLMs` • `RAG` • `LangChain` • `Vector Database` • `PostgreSQL`
+
+---
+
+## 🤖 Reinforcement Learning Research
+
+> **Comparative Study & Hybrid Reinforcement Learning Algorithms**
+
+Implemented and analyzed classical, deep, and multi-agent reinforcement learning algorithms while exploring modern hybrid optimization techniques.
+
+**Algorithms**
 
 - Q-Learning
 - SARSA
-- DQN
+- Deep Q Network (DQN)
 - Double DQN
+- Dueling DQN
 - PPO
 - A2C
 - A3C
+- DDPG
+- MAPPO
+- Multi-Agent Reinforcement Learning
+
+**Research Areas**
+
+- Reinforcement Learning
+- Multi-Agent Systems
+- Evolutionary Optimization
+- Adaptive Operator Selection
+
+**Tech Stack**
+
+`Python` • `PyTorch` • `Gymnasium` • `PettingZoo`
 
 ---
 
-### 🩺 HealthMate AI
+## 🎭 GenConViT+
 
-Medical Chatbot with AI assistance
+> **DeepFake Detection using Hybrid Deep Learning**
+
+A hybrid Deep Learning framework combining CNNs and Vision Transformers for robust DeepFake detection across multiple benchmark datasets.
+
+**Highlights**
+
+- 📄 Scopus Indexed Research Publication
+- 🧠 Hybrid CNN + Vision Transformer
+- 🎥 Video DeepFake Detection
+- 📊 High Accuracy on Multiple Datasets
+- 📈 Performance Evaluation & Analysis
+
+**Tech Stack**
+
+`Python` • `PyTorch` • `OpenCV` • `Vision Transformer` • `Deep Learning`
 
 ---
 
-### 📊 SalesTrend Analytics
+## 🚨 SurakshaAI
 
-Business Intelligence Dashboard using SQL and Power BI
+> **AI-Powered Suspicious Activity Detection System**
+
+A real-time intelligent surveillance system capable of detecting suspicious activities using Computer Vision and Deep Learning.
+
+**Highlights**
+
+- 📜 Published Indian Patent
+- 🎥 Real-time Video Analysis
+- 👁️ Object & Activity Detection
+- 🚨 Intelligent Alert Generation
+- 🛡️ AI for Public Safety
+
+**Tech Stack**
+
+`Python` • `YOLO` • `OpenCV` • `CNN` • `Deep Learning`
 
 ---
+
+## 🩺 HealthMate AI
+
+> **AI Healthcare Assistant & Appointment System**
+
+An intelligent healthcare assistant that provides symptom guidance, health recommendations, and appointment scheduling.
+
+**Highlights**
+
+- 💬 AI Health Assistant
+- 🩺 Symptom Analysis
+- 📅 Appointment Scheduling
+- 🤖 Conversational AI
+- 👨‍⚕️ Patient-Friendly Interface
+
+**Tech Stack**
+
+`Python` • `Machine Learning` • `NLP` • `FastAPI`
 
 # 📚 Publications
 
