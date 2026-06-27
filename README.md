@@ -2,6 +2,16 @@
   <img src="./assets/banner (2).png" alt="Rohini Koli Banner" width="100%">
 </p>
 
+<h1 align="center">Hi 👋, I'm Rohini Koli</h1>
+
+<h3 align="center">
+AI & Machine Learning Engineer | M.Tech Student in Data Science
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning+Engineer;M.Tech+Student+in+Data+Science;Machine+Learning+%7C+Deep+Learning+%7C+NLP;LLMs+%7C+RAG+%7C+Generative+AI;Computer+Vision+%7C+FastAPI+%7C+Python;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Rohini Koli</h1>
 
