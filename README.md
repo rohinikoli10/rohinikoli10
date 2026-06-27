@@ -160,8 +160,6 @@ AI Engineer | Machine Learning Engineer | M.Tech Student in Data Science
 
 ---
 
----
-
 # 📜 Patent
 
 <table>
