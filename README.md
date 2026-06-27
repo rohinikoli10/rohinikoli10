@@ -45,24 +45,76 @@ AI Engineer | Machine Learning Engineer | M.Tech Student in Data Science
 - 🚀 Scalable AI Applications
 
 
-AI & GenAI
-[ML] [DL] [LLMs] [RAG] [NLP] [CV] [RL]
+---
 
-Languages
-[Python] [Java] [SQL] [JavaScript]
+# 💻 Tech Stack
 
-Frameworks
-[PyTorch] [TensorFlow] [Scikit-Learn] [FastAPI]
+### 🤖 AI & Generative AI
 
-LLMs
-[LangChain] [LangGraph] [Hugging Face] [OpenAI]
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-0A66C2?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-EA4335?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-8E44AD?style=for-the-badge&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLMs-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic%20AI-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-009688?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-795548?style=for-the-badge"/>
+</p>
 
-Database
-[PostgreSQL] [MongoDB] [MySQL]
+---
 
-Tools
-[Docker] [Git] [Linux] [VS Code]
+### ⚡ Frameworks & Libraries
 
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,pandas,numpy,fastapi" />
+</p>
+
+---
+
+### 🤗 LLM Ecosystem
+
+<p>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangGraph-6E57E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Transformers-FCC624?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20DB-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+</p>
+
+---
+
+### 🌐 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,postgres,mongodb,mysql" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-222222?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge"/>
+</p>
+
+---
+
+### ⚙️ Tools & DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
+</p>
+
+---
+
+### 📊 Data Science
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
+</p>
 ---
 
 <h1 align="center">🚀 Featured Projects</h1>
