@@ -131,21 +131,39 @@ AI Engineer | Machine Learning Engineer | M.Tech Student in Data Science
 
 # 📚 Publications
 
-📄 GenConViT+: Deep Learning Framework for DeepFake Detection
+<table>
+<tr>
+<td width="25%" align="center">
 
-Published in a Scopus Indexed Journal
+📄
 
----
+</td>
 
-# 🏅 Achievements
+<td width="75%">
 
-🏆 Published Scopus Indexed Research Paper
+## GenConViT+: A Hybrid Deep Learning Framework for DeepFake Detection
 
-🏆 Published Indian Patent
+**Journal:** Journal of Integrated Science and Technology (JIST)
 
-🏆 AI & Data Science Graduate
+**Indexing:** Scopus Indexed
 
-🏆 AI Project Developer
+**Research Areas**
+
+`Deep Learning` `Computer Vision` `Vision Transformers` `CNN` `DeepFake Detection`
+
+**Highlights**
+
+- 📄 Published in a Scopus Indexed Journal
+- 🧠 Hybrid CNN + Vision Transformer architecture
+- 🎥 Multi-dataset DeepFake detection
+- 📊 High accuracy across benchmark datasets
+
+🔗 **Paper:** *(Add DOI or paper link here)*
+
+</td>
+
+</tr>
+</table>
 
 ---
 
