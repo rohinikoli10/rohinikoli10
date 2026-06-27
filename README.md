@@ -149,119 +149,19 @@ AI Engineer | Machine Learning Engineer | M.Tech Student in Data Science
 
 # 🚀 Featured Projects
 
-## 🧠 MeetMind AI
-> **AI-Powered Meeting Intelligence Platform**
-
-An end-to-end AI platform that transforms meetings into actionable insights using modern Generative AI technologies.
-
-**✨ Highlights**
-- 🤖 Large Language Models (LLMs)
-- 📚 Retrieval-Augmented Generation (RAG)
-- 📝 AI Meeting Summarization
-- 🎤 Speech-to-Text Processing
-- 💬 Intelligent Chat with Meeting History
-- ⚡ FastAPI Backend
-- 🗂️ Vector Database Integration
-- 🔍 Semantic Search
-- 🔐 Secure Authentication
-- 🌐 Modern Full-Stack Architecture
-
-**Tech Stack**
-
-`Python` • `FastAPI` • `LLMs` • `RAG` • `LangChain` • `Vector Database` • `PostgreSQL`
-
 ---
 
-## 🤖 Reinforcement Learning Research
+<h1 align="center">🚀 Featured Projects</h1>
 
-> **Comparative Study & Hybrid Reinforcement Learning Algorithms**
+<p align="center">
+  <img src="./projects/projects.png" alt="Featured Projects" width="100%">
+</p>
 
-Implemented and analyzed classical, deep, and multi-agent reinforcement learning algorithms while exploring modern hybrid optimization techniques.
-
-**Algorithms**
-
-- Q-Learning
-- SARSA
-- Deep Q Network (DQN)
-- Double DQN
-- Dueling DQN
-- PPO
-- A2C
-- A3C
-- DDPG
-- MAPPO
-- Multi-Agent Reinforcement Learning
-
-**Research Areas**
-
-- Reinforcement Learning
-- Multi-Agent Systems
-- Evolutionary Optimization
-- Adaptive Operator Selection
-
-**Tech Stack**
-
-`Python` • `PyTorch` • `Gymnasium` • `PettingZoo`
+<p align="center">
+  <i>Building AI solutions that solve real-world problems through Machine Learning, Deep Learning, LLMs, RAG, Computer Vision, Reinforcement Learning, and Generative AI.</i>
+</p>
 
 ---
-
-## 🎭 GenConViT+
-
-> **DeepFake Detection using Hybrid Deep Learning**
-
-A hybrid Deep Learning framework combining CNNs and Vision Transformers for robust DeepFake detection across multiple benchmark datasets.
-
-**Highlights**
-
-- 📄 Scopus Indexed Research Publication
-- 🧠 Hybrid CNN + Vision Transformer
-- 🎥 Video DeepFake Detection
-- 📊 High Accuracy on Multiple Datasets
-- 📈 Performance Evaluation & Analysis
-
-**Tech Stack**
-
-`Python` • `PyTorch` • `OpenCV` • `Vision Transformer` • `Deep Learning`
-
----
-
-## 🚨 SurakshaAI
-
-> **AI-Powered Suspicious Activity Detection System**
-
-A real-time intelligent surveillance system capable of detecting suspicious activities using Computer Vision and Deep Learning.
-
-**Highlights**
-
-- 📜 Published Indian Patent
-- 🎥 Real-time Video Analysis
-- 👁️ Object & Activity Detection
-- 🚨 Intelligent Alert Generation
-- 🛡️ AI for Public Safety
-
-**Tech Stack**
-
-`Python` • `YOLO` • `OpenCV` • `CNN` • `Deep Learning`
-
----
-
-## 🩺 HealthMate AI
-
-> **AI Healthcare Assistant & Appointment System**
-
-An intelligent healthcare assistant that provides symptom guidance, health recommendations, and appointment scheduling.
-
-**Highlights**
-
-- 💬 AI Health Assistant
-- 🩺 Symptom Analysis
-- 📅 Appointment Scheduling
-- 🤖 Conversational AI
-- 👨‍⚕️ Patient-Friendly Interface
-
-**Tech Stack**
-
-`Python` • `Machine Learning` • `NLP` • `FastAPI`
 
 # 📚 Publications
 
