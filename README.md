@@ -141,7 +141,7 @@ AI Engineer | Machine Learning Engineer | M.Tech Student in Data Science
 
 <td width="75%">
 
-## GenConViT+: A Hybrid Deep Learning Framework for DeepFake Detection
+## GenConViT+: A Hybrid Deep Learning Framework for DeepFake Detection   https://pubs.thesciencein.org/journal/index.php/jist/article/view/a820
 
 **Journal:** Journal of Integrated Science and Technology (JIST)
 
