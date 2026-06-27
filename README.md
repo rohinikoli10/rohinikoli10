@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Rohini Koli</h1>
 
 <h3 align="center">
-AI & Machine Learning Engineer | M.Tech Student in Data Science
+AI Engineer | Machine Learning Engineer | M.Tech Student in Data Science
 </h3>
 
 <p align="center">
