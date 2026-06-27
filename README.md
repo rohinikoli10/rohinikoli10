@@ -202,9 +202,9 @@ AI Engineer | Machine Learning Engineer | M.Tech Student in Data Science
 
 # 📫 Connect With Me
 
-📧 Email: YOUR EMAIL
+📧 Email: kolirohini10@gmail.com
 
-💼 LinkedIn: YOUR LINKEDIN
+💼 LinkedIn: https://www.linkedin.com/in/rohini-koli-292017212/
 
 🌐 Portfolio: Coming Soon
 
