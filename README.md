@@ -151,14 +151,7 @@ AI Engineer | Machine Learning Engineer | M.Tech Student in Data Science
 
 `Deep Learning` `Computer Vision` `Vision Transformers` `CNN` `DeepFake Detection`
 
-**Highlights**
 
-- 📄 Published in a Scopus Indexed Journal
-- 🧠 Hybrid CNN + Vision Transformer architecture
-- 🎥 Multi-dataset DeepFake detection
-- 📊 High accuracy across benchmark datasets
-
-🔗 **Paper:** *(Add DOI or paper link here)*
 
 </td>
 
