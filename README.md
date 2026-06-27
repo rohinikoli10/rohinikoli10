@@ -166,7 +166,7 @@ AI Engineer | Machine Learning Engineer | M.Tech Student in Data Science
 <tr>
 <td width="25%" align="center">
 
-📜
+<img src="./publications/patent.png" width="180">
 
 </td>
 
