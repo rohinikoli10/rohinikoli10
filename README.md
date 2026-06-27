@@ -13,45 +13,27 @@ AI Engineer | Machine Learning Engineer | M.Tech Student in Data Science
 </p>
 
 
-<h1 align="center">Hi 👋, I'm Rohini Koli</h1>
 
-<h3 align="center">
-AI & Machine Learning Engineer | Deep Learning Researcher | Backend Developer
-</h3>
-
-<p align="center">
-Building intelligent systems with Machine Learning, Deep Learning, Reinforcement Learning and FastAPI.
-</p>
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech in Artificial Intelligence & Data Science
+🎓 **M.Tech Student in Data Science** with a strong foundation in Artificial Intelligence and Data Science.
 
-🔬 Research interests:
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Reinforcement Learning
-- Evolutionary Optimization
-- Generative AI
+🤖 Passionate about building intelligent systems using **Machine Learning, Deep Learning, NLP, LLMs, RAG, Computer Vision, and Reinforcement Learning**.
 
-📄 Published Scopus Indexed Research Paper
+🔬 Interested in solving real-world problems through scalable AI solutions and applied research.
 
-📜 Published Indian Patent
+📄 **Published Scopus Indexed Research Paper** in Deep Learning and Computer Vision.
 
-💻 Currently building scalable AI systems using FastAPI and Python.
+📜 **Published Indian Patent** for an AI-powered Suspicious Activity Detection System.
 
-🌱 Currently learning
+🚀 Currently exploring **Generative AI, Agentic AI, MLOps, and Production-ready AI Systems**.
 
-- MLOps
-- Docker
-- Kubernetes
-- Advanced Reinforcement Learning
-- LLM Applications
+💼 Open to **AI Engineer, Machine Learning Engineer, Data Scientist, and Generative AI** opportunities.
 
----
+
 
 # 🚀 Tech Stack
 
