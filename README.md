@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="./assets/banner.png" alt="Rohini Koli Banner" width="100%">
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Rohini Koli</h1>
 
 <h3 align="center">
